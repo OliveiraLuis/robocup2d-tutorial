@@ -21,6 +21,7 @@ or
 Go to the agent2d directory and run:
 
 > cd src/
+
 > ./start.sh -t team_name
 
 _Note: replace **team_name** with the desired team name.
@@ -31,4 +32,4 @@ Open another terminal and run the same command cited above just placing a differ
 
 ### Conclusion
 
-Now you have two teams on the field. Just use Ctrl+K to perform a match kick-off.
+Now you have two teams on the field. Just use Ctrl+K to perform a match kick-off. See the next tutorial [here](https://github.com/herodrigues/robocup2d-tutorial/blob/master/sections/configuring-the-trainer.md).
